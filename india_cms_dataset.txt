@@ -1,0 +1,173 @@
+# Indian Constitutional Management System (CMS) Dataset
+
+## Constitutional Framework
+
+The Constitution of India came into effect on January 26, 1950. It is the longest written constitution of any sovereign country in the world, containing 448 articles in 25 parts, 12 schedules, 5 appendices and 115 amendments. The Constitution establishes the structure, procedures, powers, and duties of government institutions and sets out fundamental rights, directive principles, and the duties of citizens.
+
+The basic structure doctrine of the Indian Constitution holds that the Constitution has certain basic features that cannot be altered or destroyed through amendments by the parliament. The doctrine was first established in the landmark Supreme Court case of Kesavananda Bharati v. State of Kerala (1973).
+
+## Federal Structure
+
+India is a federal state with unitary features. The Constitution divides powers between the Union and States through three lists: Union List, State List, and Concurrent List. The Union List contains subjects over which only the Parliament can make laws, the State List contains subjects over which only the State Legislatures can make laws, and the Concurrent List contains subjects over which both Parliament and State Legislatures can make laws.
+
+The Union Executive consists of the President (Head of State), Vice-President, and Council of Ministers headed by the Prime Minister. The State Executive consists of the Governor (appointed by the President) and the Council of Ministers headed by the Chief Minister.
+
+## Judiciary
+
+The Indian Judiciary is independent of the executive and legislative branches. The Supreme Court is the highest court in India and has original, appellate, and advisory jurisdiction. High Courts are the principal civil courts of original jurisdiction in the states, and they also hear appeals from subordinate courts.
+
+The Supreme Court has the power of judicial review, which means it can examine the constitutional validity of laws and executive orders of both the Union and the States. The Chief Justice of India is appointed by the President after consultation with judges of the Supreme Court and High Courts.
+
+## Parliament
+
+The Indian Parliament consists of the President and two Houses: the Rajya Sabha (Council of States) and the Lok Sabha (House of the People). The Rajya Sabha is a permanent body with members elected for six-year terms, while the Lok Sabha is elected directly by the people for a five-year term.
+
+The Parliament has the power to make laws on matters listed in the Union List and Concurrent List. Money bills can only originate in the Lok Sabha. The Parliament also controls the executive through questions, discussions, and no-confidence motions.
+
+## Fundamental Rights and Duties
+
+The Constitution guarantees six fundamental rights to every citizen: Right to Equality, Right to Freedom, Right against Exploitation, Right to Freedom of Religion, Cultural and Educational Rights, and Right to Constitutional Remedies.
+
+The 42nd Amendment Act of 1976 added a chapter on Fundamental Duties to the Constitution. These duties are moral obligations of citizens, such as respecting the Constitution, promoting harmony, protecting the environment, and striving for excellence.
+
+## Electoral System
+
+Elections in India are conducted by the Election Commission, an autonomous constitutional authority. The Commission oversees the preparation of electoral rolls, recognition of political parties, allotment of symbols, and conduct of elections to Parliament, State Legislatures, and offices of the President and Vice-President.
+
+The voting age in India is 18 years. India follows a first-past-the-post electoral system, where the candidate who receives the most votes in a constituency is declared the winner.
+
+## Amendment Process
+
+The Constitution can be amended by the Parliament through a special procedure as laid down in Article 368. Different provisions of the Constitution require different procedures for amendment. Some provisions can be amended by a simple majority of the Parliament, while others require a two-thirds majority of the members present and voting, followed by ratification by at least half of the State Legislatures.
+
+## Emergency Provisions
+
+The Constitution provides for three types of emergencies: National Emergency (Article 352), State Emergency or President's Rule (Article 356), and Financial Emergency (Article 360).
+
+During a National Emergency, the fundamental rights under Article 19 are automatically suspended, and the President can suspend other fundamental rights except those guaranteed under Articles 20 and 21. During President's Rule, the President assumes all the functions of the State government and the State Legislature.
+
+## Local Self-Government
+
+The 73rd and 74th Amendment Acts of 1992 added two new parts to the Constitution: Part IX dealing with Panchayats and Part IXA dealing with Municipalities. These amendments provide for a three-tier system of Panchayati Raj in rural areas and Urban Local Bodies in urban areas.
+
+The State Election Commission conducts elections to the Panchayats and Municipalities. The State Finance Commission reviews the financial position of these bodies and makes recommendations regarding the distribution of taxes between the State and local bodies.
+
+## Public Service Commissions
+
+The Union Public Service Commission (UPSC) and State Public Service Commissions (SPSCs) conduct examinations for appointments to the services of the Union and the States respectively. They are independent constitutional bodies that advise the government on matters related to recruitment, promotions, and disciplinary actions.
+
+The Chairman and members of the UPSC are appointed by the President and can be removed only through a process similar to the impeachment of a Supreme Court judge. This ensures their independence from political interference.
+
+## Constitutional Bodies
+
+The Constitution establishes several independent bodies to perform specific functions:
+
+- Finance Commission: Makes recommendations regarding the distribution of taxes between the Union and States.
+- Election Commission: Conducts free and fair elections.
+- Union Public Service Commission: Conducts examinations for recruitment to All India Services and Central Services.
+- Comptroller and Auditor General: Audits the accounts of the Union and State governments.
+- Attorney General: Chief legal advisor to the Government of India.
+
+## Planning and Development
+
+The NITI Aayog (National Institution for Transforming India) replaced the Planning Commission in 2015. It serves as a policy think tank and fosters cooperative federalism by involving states in the economic policy-making process.
+
+The Finance Commission, established under Article 280, makes recommendations regarding the distribution of taxes between the Union and States, and the principles governing grants-in-aid to the States from the Consolidated Fund of India.
+
+## Constitutional Amendments
+
+Some significant amendments to the Constitution include:
+
+- 1st Amendment (1951): Added the Ninth Schedule to protect land reform laws from judicial review.
+- 42nd Amendment (1976): Added Fundamental Duties, changed the Preamble to include "socialist" and "secular", and extended the term of the Lok Sabha and State Assemblies during an emergency.
+- 44th Amendment (1978): Restored the right to property as a legal right (not a fundamental right) and removed provisions allowing for suspension of fundamental rights during an emergency.
+- 73rd and 74th Amendments (1992): Established Panchayati Raj Institutions and Municipalities as units of local self-government.
+- 86th Amendment (2002): Made education a fundamental right for children aged 6-14 years.
+- 101st Amendment (2016): Introduced the Goods and Services Tax (GST).
+- 103rd Amendment (2019): Provided 10% reservation for Economically Weaker Sections (EWS) in government jobs and educational institutions.
+
+## Language Policy
+
+The Constitution recognizes Hindi in Devanagari script as the official language of the Union. It also recognizes 22 languages in the Eighth Schedule. English continues to be used for official purposes.
+
+The Official Languages Act of 1963 provides for the continued use of English for official purposes along with Hindi, even after the 15-year period envisaged by the Constitution.
+
+## Inter-State Relations
+
+The Constitution provides for mechanisms to resolve inter-state disputes, such as the Inter-State Council, Zonal Councils, and special provisions for certain states like Jammu and Kashmir, Nagaland, and Mizoram.
+
+The Inter-State Council investigates and discusses subjects of common interest between the Union and States or among States. The President can establish Zonal Councils for group of states to foster cooperation and resolve regional issues.
+
+## Financial Relations
+
+The Constitution divides taxing powers between the Union and States. The Union collects taxes like income tax, customs duties, and GST, while States collect taxes like land revenue, agricultural income tax, and stamp duty.
+
+The Finance Commission makes recommendations regarding the distribution of taxes between the Union and States. The Goods and Services Tax Council, established by the 101st Amendment, makes recommendations on GST-related matters.
+
+## Special Provisions for Certain States
+
+The Constitution contains special provisions for states like Jammu and Kashmir (Article 370, now abrogated), Nagaland (Article 371A), Assam (Article 371B), Manipur (Article 371C), Andhra Pradesh and Telangana (Article 371D), Sikkim (Article 371F), Mizoram (Article 371G), Arunachal Pradesh (Article 371H), and Goa (Article 371I).
+
+These provisions protect the cultural identity, land rights, and traditional practices of these states and provide for special development boards to address regional imbalances within these states.
+
+## Q&A Pairs on Indian CMS
+
+1. Q: When did the Constitution of India come into effect?
+   A: The Constitution of India came into effect on January 26, 1950.
+
+2. Q: What is the basic structure doctrine?
+   A: The basic structure doctrine holds that the Constitution has certain basic features that cannot be altered or destroyed through amendments by the parliament.
+
+3. Q: How many types of emergency provisions are there in the Indian Constitution?
+   A: There are three types of emergency provisions: National Emergency (Article 352), State Emergency or President's Rule (Article 356), and Financial Emergency (Article 360).
+
+4. Q: What are the three lists that divide powers between the Union and States?
+   A: The three lists are the Union List, State List, and Concurrent List.
+
+5. Q: Which amendment made education a fundamental right for children?
+   A: The 86th Amendment (2002) made education a fundamental right for children aged 6-14 years.
+
+6. Q: What is the role of the Election Commission in India?
+   A: The Election Commission oversees the preparation of electoral rolls, recognition of political parties, allotment of symbols, and conduct of elections to Parliament, State Legislatures, and offices of the President and Vice-President.
+
+7. Q: How many fundamental rights are guaranteed by the Indian Constitution?
+   A: The Indian Constitution guarantees six fundamental rights to every citizen.
+
+8. Q: What is the significance of the 73rd and 74th Amendments to the Constitution?
+   A: These amendments established Panchayati Raj Institutions and Municipalities as units of local self-government.
+
+9. Q: Who appoints the Chief Justice of India?
+   A: The President appoints the Chief Justice of India after consultation with judges of the Supreme Court and High Courts.
+
+10. Q: What is the role of the NITI Aayog?
+    A: The NITI Aayog serves as a policy think tank and fosters cooperative federalism by involving states in the economic policy-making process.
+
+11. Q: What is the procedure for amending the Constitution?
+    A: Different provisions require different procedures - some can be amended by a simple majority, while others require a two-thirds majority followed by ratification by at least half of the State Legislatures.
+
+12. Q: Which body conducts examinations for appointments to All India Services?
+    A: The Union Public Service Commission (UPSC) conducts examinations for appointments to All India Services.
+
+13. Q: How many languages are recognized in the Eighth Schedule of the Constitution?
+    A: The Eighth Schedule recognizes 22 languages.
+
+14. Q: What is the term of members of the Rajya Sabha?
+    A: Members of the Rajya Sabha are elected for six-year terms.
+
+15. Q: Which article of the Constitution provides for the establishment of the Finance Commission?
+    A: Article 280 provides for the establishment of the Finance Commission.
+
+16. Q: What was the significance of the 101st Amendment to the Constitution?
+    A: The 101st Amendment introduced the Goods and Services Tax (GST).
+
+17. Q: What are the conditions under which the President can proclaim a National Emergency?
+    A: The President can proclaim a National Emergency if the security of India or any part thereof is threatened by war, external aggression, or armed rebellion.
+
+18. Q: Who is the chief legal advisor to the Government of India?
+    A: The Attorney General is the chief legal advisor to the Government of India.
+
+19. Q: What is the voting age in India?
+    A: The voting age in India is 18 years.
+
+20. Q: What was the landmark Supreme Court case that established the basic structure doctrine?
+    A: The landmark case was Kesavananda Bharati v. State of Kerala (1973).
